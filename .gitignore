@@ -1,1 +1,5 @@
+# .vscode folder with vscode config settings
 .vscode
+
+# node modules folder
+node_modules
